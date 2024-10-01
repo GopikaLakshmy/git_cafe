@@ -1,0 +1,14 @@
+Ice Tea Recipe
+
+Ingredients:
+- 2 cups of water
+- 2 tea bags
+- Sugar to taste
+- Lemon slices (optional)
+
+Instructions:
+1. Boil water.
+2. Steep tea bags in boiling water for 5 minutes.
+3. Remove tea bags and add sugar to taste.
+4. Chill in the refrigerator and serve with ice and lemon slices.
+
